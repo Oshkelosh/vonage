@@ -1,0 +1,9 @@
+{
+  "addon_id": "vonage",
+  "addon_name": "Vonage",
+  "addon_description": "Send SMS notifications via Vonage (Nexmo).",
+  "category": "notification",
+  "version": "1.0.0",
+  "min_oshkelosh_version": "0.1.0",
+  "python_requires": ">=3.11"
+}
